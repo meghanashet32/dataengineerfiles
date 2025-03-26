@@ -1,0 +1,9 @@
+{
+	"name": "adf-dataengineer-sales",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "56e4c8c5-b511-4c04-8fed-ecd968376e1f",
+		"tenantId": "682029e1-01c2-445b-b3b4-bb0b1d1e8a94"
+	}
+}
